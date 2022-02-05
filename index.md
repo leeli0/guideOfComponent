@@ -15,7 +15,7 @@ Today, you will analyze a component diagram of Online Shopping System to see how
 <br>
 
 ### Safety Measures {#safety}
-![Encryption by using 7Zip](/encryptionUsing7Zip.png "Encryption")
+![Encryption by using 7Zip](encryptionUsing7Zip.png "Encryption")
 Encryption is the best method to protect our personal information and intellectual property. If our computer is attacked by hacker or stolen by thief, and we didn't encrypt sensitive and valuable data, the data will be exposed to other people. The criminals can use our sensitive data to do more attack on us, and using our intellectual property as their owns.
 Therefore, you should always encrypt sensitive and valuable data to protect it.
 <br>
