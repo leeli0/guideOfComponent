@@ -1,4 +1,4 @@
-# User Guide of Component Diagram for Versed User
+## User Guide of Component Diagram for Versed User
 ## Content
 - [Introduction](#introduction)
 - [Preparation](#preparation)
